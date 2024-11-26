@@ -75,9 +75,6 @@
 		compile_opts |= 2
 	}
 
-	; UTF-8 入力
-	compile_opts |= 4
-
 	return compile_opts
 
 ; プリプロセッサオプションを取得する
